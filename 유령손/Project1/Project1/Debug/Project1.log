@@ -1,0 +1,26 @@
+﻿빌드 시작: 2014-05-01 오후 4:12:04
+     1>2 노드의 "c:\Users\Lab401\documents\visual studio 2013\Projects\Project1\Project1\Project1.vcxproj" 프로젝트(Build 대상)입니다.
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp num2.cpp num3.cpp num4.cpp num5.cpp num6.cpp
+         main.cpp
+         코드를 생성하고 있습니다...
+         건너뛰고 있습니다... (관련된 변경 내용 없음)
+         num6.cpp
+         num5.cpp
+         num4.cpp
+         num3.cpp
+         num2.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\lab401\documents\visual studio 2013\Projects\Project1\Debug\2장.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\lab401\documents\visual studio 2013\Projects\Project1\Debug\2장.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\lab401\documents\visual studio 2013\Projects\Project1\Debug\2장.lib" /MACHINE:X86 Debug\main.obj
+         Debug\num2.obj
+         Debug\num3.obj
+         Debug\num4.obj
+         Debug\num5.obj
+         Debug\num6.obj
+         Project1.vcxproj -> c:\users\lab401\documents\visual studio 2013\Projects\Project1\Debug\2장.exe
+     1>"c:\Users\Lab401\documents\visual studio 2013\Projects\Project1\Project1\Project1.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.74
